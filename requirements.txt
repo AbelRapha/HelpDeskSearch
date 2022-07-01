@@ -1,0 +1,4 @@
+Package               Version    
+--------------------- -----------   
+pandas                1.4.3      
+streamlit             1.10.0     
