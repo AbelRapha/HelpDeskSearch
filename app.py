@@ -66,4 +66,4 @@ if frase_busca:
     grafico1.bar_chart(dados['Categoria'].value_counts())
     grafico2.text("NPS")
     grafico2.bar_chart(dados['Satisfação'].value_counts())
-    print(dados['Categoria'].value_counts())
+    
