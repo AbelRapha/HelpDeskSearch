@@ -2,6 +2,9 @@ import pandas as pd
 import streamlit as st
 import sqlite3 as db
 
+#Alterando o Favicoin
+st.set_page_config(page_title='Help Desk Search', page_icon = 'static/images/help-desk.png',)
+
 st.write(""" # HelpDeskSearch """)
 st.write("## Busque o chamado através de seu Ticket ou Categoria similar")
 
@@ -66,4 +69,5 @@ if frase_busca:
     grafico1.bar_chart(dados['Categoria'].value_counts())
     grafico2.text("NPS")
     grafico2.bar_chart(dados['Satisfação'].value_counts())
-    
+
+
