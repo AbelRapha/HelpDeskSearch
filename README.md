@@ -5,5 +5,5 @@ Este projeto é voltado a criação de um mecanismo de busca para conseguir um m
 [AQUI](https://dados.gov.br/dataset/ifpr-helpdesk)
 
 ## Autoria
-[Abel Rapha](https://helpdesksearch.onrender.com/)
+[Link do projeto](https://helpdesksearch.onrender.com/)
 Criado por mim ❤️
